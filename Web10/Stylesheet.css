@@ -1,0 +1,60 @@
+body{
+  height: 500px;
+  font-family: Trebuchet MS;
+  background-color: linen;
+}
+.logo{
+  height:20px ;
+  width: 20px;
+  border-radius: 20px;
+  
+}
+li{
+ 
+  list-style: none;
+}
+.header-name{
+  float: left;
+}
+.line{ 
+  border: solid red;
+}
+.images{
+  margin: 20px 0 10px 20px;
+  float: left;
+}
+.list{
+  float: left;
+  margin: 0 0 0 20px;
+  background-color: lightblue;
+}
+.content{
+  height: 400px;
+}
+.footer{
+  height: 100px;
+}
+.footer-name{
+}
+.img2{
+  float: left;
+  margin: 20px 0 0 10px;
+
+}
+p{ 
+  color:gold;
+ 
+}
+h5{
+  text-style: italic;
+}
+input{
+  margin: 20px 0 0 0;
+}
+textarea{ 
+  margin: 20px 0 0 0;
+  height:50px;
+}
+button[type=submit]{
+  margin:20px 0 0 0;
+}
